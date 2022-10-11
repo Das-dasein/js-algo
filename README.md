@@ -9,6 +9,7 @@
 - https://github.com/azat-io/you-dont-know-js-ru
 - http://jstherightway.org/ru-ru/
 - https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf
+- Список бесплатных книг: https://jsbooks.revolunet.com/
 - https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/ (Верю, что найдёте в интернете)
 - https://www.oreilly.com/library/view/javascript-the-good/9780596517748/ (Верю, что найдёте в интернете)
 
