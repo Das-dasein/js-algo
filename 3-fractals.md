@@ -9,3 +9,5 @@
 3.  Продолжаем деление до тех пор, пока не разделим треугольник на заданное число частей. После этого выполняем отрисовку.
 
 ![image](https://user-images.githubusercontent.com/33377076/197621915-db062b46-5d3c-48d2-907c-7c136b911e55.png)
+
+https://stackblitz.com/edit/js-x6kwjr?file=index.js
