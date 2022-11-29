@@ -1,8 +1,3 @@
-# Тест: 
-https://forms.gle/1PPsMkcPLrBuRH439
-
-
-
 Карманная книга: https://developer.mozilla.org/ru/ <br>
 Сайты с задачами:
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
